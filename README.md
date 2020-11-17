@@ -20,11 +20,11 @@ Daftar *challenge* yang tersedia dalam repositori ini :
 
 ## Bagaimana cara berkontribusi ? :page_with_curl: 
 Berikut ini cara untuk berkontribusi :
-- Silakan fork repositori ini
-- Akses repositori yang telah di fork pada repositori lokal anda
+- Silakan *fork* repositori ini
+- Akses repositori yang telah di *fork* pada repositori lokal anda
 - Unggah/buat file baru pada folder `Kode/Challenge-n/` 
   - Pastikan nama file kode tersebut adalah **challenge-1.format file**. (*contoh : challenge-1.cpp*).
-  - Jika file dengan nama tersebut telah ada (orang lain berkontribusi juga) sehingga duplikat, maka nama file kode anda tersebut ditambah **titik dan digit**
+  - Jika file dengan nama tersebut telah ada dengan format file yang sama (bahasa pemrograman sama) sehingga duplikat, maka nama file kode anda tersebut ditambah **titik dan digit**
     (*contoh : challenge-1.1.cpp , challenge-1.2.cpp*).
 - Lakukan perubahan dan *commit* file tersebut pada folder yang tepat `Kode/Challenge-n/`
 - Lakukan *pull request* dan *compare*
