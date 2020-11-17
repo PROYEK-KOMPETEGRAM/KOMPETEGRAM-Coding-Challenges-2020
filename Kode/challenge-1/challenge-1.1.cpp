@@ -7,32 +7,29 @@ int main()
     int n;
     cin>>n;
 
-    string temp[n];
-
     for(auto i=0; i<n; i++)
     {
-        string nama;
+        string teks;
+        cin>>teks;
 
-        cin>>nama;
-
-        for(auto j=0; j<nama.length(); j++)
+        for(auto j=0; j<teks.length(); j++)
         {
             // Traversal
-            if(nama[j] == '>'){
-                nama[j+1] = toupper(nama[j+1]);
-                nama.erase(j,1);
+            if(teks[j] == '>'){
+                teks[j+1] = toupper(teks[j+1]);
+                teks.erase(j,1);
                 j--;
             }
             
-            else if(nama[j] == '<'){
-                nama[j+1] = tolower(nama[j+1]);
-                nama.erase(j,1);
+            else if(teks[j] == '<'){
+                teks[j+1] = tolower(teks[j+1]);
+                teks.erase(j,1);
                 j--;
             }
              
         }
 
-        cout<<nama<<"\n";
+        cout<<teks<<"\n";
         
     }
 
