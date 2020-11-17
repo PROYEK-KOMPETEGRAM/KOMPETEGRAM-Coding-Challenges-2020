@@ -10,6 +10,7 @@ Repositori ini merupakan pustaka (*library*) kode jawaban dari peserta yang tela
 **KOMPETEGRAM Coding Challenges 2020** yang digelar oleh **KOMPETEGRAM** untuk para anggotanya. Dalam repositori terdiri dari :
 1. Soal berbentuk .pdf dalam folder `Soal/challenge-n/`
 2. Kode peserta yang berkontribusi dalam folder `Kode/challenge-n/`
+3. Rekapitulasi hasil setiap *challenge* dalam folder `Rekapitulasi/challenge-n/`
 
 Daftar *challenge* yang tersedia dalam repositori ini :
 - [x] *Challenge 1* (Menjadi Besar dan Menjadi Kecil)
