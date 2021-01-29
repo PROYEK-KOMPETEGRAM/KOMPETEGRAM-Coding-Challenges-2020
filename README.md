@@ -15,7 +15,7 @@ Repositori ini merupakan pustaka (*library*) kode jawaban dari peserta yang tela
 Daftar *challenge* yang tersedia dalam repositori ini :
 - [x] *Challenge 1* (Menjadi Besar dan Menjadi Kecil)
 - [x] *Challenge 2* (Merancang Jembatan)
-- [ ] *Challenge 3* 
+- [x] *Challenge 3* 
 - [ ] *Challenge 4* 
 
 ## Bagaimana cara berkontribusi ? :page_with_curl: 
