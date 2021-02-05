@@ -6,7 +6,7 @@ public class App {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
 
-        String nama[] = new String [n];
+        String[] nama = new String [n];
 
         for(int i=0; i<n; i++) {
             nama[i] = input.next();
