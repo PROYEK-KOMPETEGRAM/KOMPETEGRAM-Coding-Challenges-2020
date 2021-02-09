@@ -1,4 +1,4 @@
-# KOMPETEGRAM-Coding-Challenges-Season1
+# KOMPETEGRAM-Coding-Challenges-Season1 (Selesai Dilaksanakan)
 
 ![Contributor](https://img.shields.io/github/contributors/PROYEK-KOMPETEGRAM/KOMPETEGRAM-Coding-Challenges-2020?color=blue)
 ![Pull](https://img.shields.io/bitbucket/pr-raw/PROYEK-KOMPETEGRAM/KOMPETEGRAM-Coding-Challenges-2020?color=blue)
