@@ -1,4 +1,4 @@
-# KOMPETEGRAM-Coding-Challenges-2020
+# KOMPETEGRAM-Coding-Challenges-Season1
 
 ![Contributor](https://img.shields.io/github/contributors/PROYEK-KOMPETEGRAM/KOMPETEGRAM-Coding-Challenges-2020?color=blue)
 ![Pull](https://img.shields.io/bitbucket/pr-raw/PROYEK-KOMPETEGRAM/KOMPETEGRAM-Coding-Challenges-2020?color=blue)
@@ -16,7 +16,7 @@ Daftar *challenge* yang tersedia dalam repositori ini :
 - [x] *Challenge 1* (Menjadi Besar dan Menjadi Kecil)
 - [x] *Challenge 2* (Merancang Jembatan)
 - [x] *Challenge 3* (Perjalanan Menuju Kota Malam)
-- [ ] *Challenge 4* 
+- [x] *Challenge 4* (Membangun Sebuah Jalan)
 
 ## Bagaimana cara berkontribusi ? :page_with_curl: 
 Berikut ini cara untuk berkontribusi :
